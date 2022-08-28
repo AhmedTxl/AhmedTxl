@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo11963
-Fork on GitHub3003
+
 <h1 align="center">Hi 👋, I'm Ahmed Alharbi</h1>
 <h3 align="center">A passionate Machine Learning | Frontend developer from Saudi Arabia</h3>
 
