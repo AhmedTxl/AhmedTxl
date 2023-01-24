@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Programming, Digital Transformation, Internet of Things, Deep Learning**
 
-- 💬 Ask me about **Supervised Algorithms, Frontend design and developement**
+- 💬 Ask me about **Supervised Algorithms, Frontend Design and Developement**
 
 - 📫 How to reach me **asdd1zx1@gmail.com**
 
