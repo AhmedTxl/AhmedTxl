@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtxl&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtxl" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Digital Transformation, Internet of Things, Cybersecurity Fundamentals**
+- 🌱 I’m currently learning **Backend Programming, Digital Transformation, Internet of Things, Deep Learning**
 
 - 💬 Ask me about **Supervised Algorithms, Frontend design and developement**
 
