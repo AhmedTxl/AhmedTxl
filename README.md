@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Alharbi</h1>
 <h3 align="center">A passionate Frontend Developer & Machine Learning from Saudi Arabia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtxl&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtxl" /> </p>
-
+<br>
 - 🌱 I’m currently learning **Backend Programming, Digital Transformation, Internet of Things, Deep Learning**
 
 - 💬 Ask me about **Supervised Algorithms, Frontend Design and Developement**
