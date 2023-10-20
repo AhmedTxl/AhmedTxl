@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Alharbi</h1>
-<h3 align="center">A passionate Frontend Developer & Machine Learning from Saudi Arabia</h3>
+<h3 align="center">A passionate Frontend Web Developer & Machine Learning from Saudi Arabia</h3>
 <br>
 - 🌱 I’m currently learning **Backend Programming, Digital Transformation, Internet of Things, Deep Learning**
 
